@@ -6,8 +6,8 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/TP VR Speed Design.unity
+    path: Assets/TP VR Speed Design.unity
     guid: 322f8318784c140f090bc61726cc0dac
   m_configObjects:
-    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 695604a43b4c4c247b2ae7eeea1ab632,
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 598b37a723c48f148a77dc861fa5c54b,
       type: 2}
